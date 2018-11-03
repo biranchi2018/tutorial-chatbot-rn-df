@@ -10,7 +10,7 @@ If you really just want to get started, clone this repo, figure out how to set u
   componentDidMount() {
     Dialogflow_V2.setConfiguration(
       "CLIENT EMAIL",
-      "PRICATE KEY",
+      "PRIVATE KEY",
       Dialogflow_V2.LANG_ENGLISH_US,
       "PROJECT ID"
     );
